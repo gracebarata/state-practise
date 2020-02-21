@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Kosugi|Lacquer|Open+Sans+Condensed:300|Squada+One&display=swap");
+
+li:nth-child(1) {
+  font-family: "Lacquer";
+}
+
+li:nth-child(2) {
+  font-family: "Kosugi";
+}
+
+li:nth-child(3) {
+  font-family: "Open Sans Condensed";
+}
+
+li:nth-child(4) {
+  font-family: "Squada One";
+}

@@ -1,3 +1,9 @@
+race's set up notes:
+
+// in terminal install create react app; type: npm create react-app 'name-of-your-app'
+// cd in to 'name-of-your-app'
+// type: npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
